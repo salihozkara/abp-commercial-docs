@@ -22,11 +22,6 @@ LeptonX comes in all shapes and sizes. You can use it for free or commercially w
 | [Sidebar](#sidebar) | ✅    | ✅          |
 | Breadcrumb          | ✅    | ✅          |
 
-### HTML Specific
-| Features | Lite | Commercial |
-| -------- | ---- | ---------- |
-| Feature  |      |            |
-
 
 ### ANGULAR Specific
 | Features | Lite | Commercial |
